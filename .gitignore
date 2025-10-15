@@ -1,0 +1,5 @@
+.osp/
+vendor/
+.env
+phinx.php
+db.php
